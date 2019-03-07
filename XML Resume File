@@ -7,7 +7,7 @@
   </PERSON>
   <EXPERIENCE>
     <COMPANYNAME>Lynker Technologies</COMPANYNAME>
-    <COMPANYCONTACTINFORMATION Preferred="https://www.lynker.com/"</COMPANYCONTACTINFORMATION>
+    <COMPANYCONTACTINFORMATION> Preferred="https://www.lynker.com/"</COMPANYCONTACTINFORMATION>
     <EMPLOYMENTDATES>October 2015- Present</EMPLOYMENTDATES>
     <TITLE>Help Desk Technician III</TITLE>
     <DUTIES>Provide daily technical support for 250+ federal end users via phone, iSupport ticketing system, desk-side visits and remote assistance.</DUTIES>
@@ -43,7 +43,7 @@
    </EXPERIENCE> 
   <EXPERIENCE>
     <COMPANYNAME>Intergrated Statistics</COMPANYNAME>
-    <COMPANYCONTACTINFORMATION Preferred="http://www.integratedstatistics.com/"</COMPANYCONTACTINFORMATION>
+    <COMPANYCONTACTINFORMATION> Preferred="http://www.integratedstatistics.com/"</COMPANYCONTACTINFORMATION>
     <EMPLOYMENTDATES>April 2010-July 2013</EMPLOYMENTDATES>
     <TITLE>Help Desk Technician</TITLE>
     <DUTIES>IT technical analyst and support for over 250 government employees at the Greater Atlantic Regional Office.</DUTIES>
@@ -54,7 +54,7 @@
    </EXPERIENCE>
    <EXPERIENCE>
     <COMPANYNAME>Chartwells/Compass Northeastern University, Henderson House</COMPANYNAME>
-    <COMPANYCONTACTINFORMATION Preferred="https://nudining.com/about_us/staff"</COMPANYCONTACTINFORMATION>
+    <COMPANYCONTACTINFORMATION> Preferred="https://nudining.com/about_us/staff"</COMPANYCONTACTINFORMATION>
     <EMPLOYMENTDATES>2006 - 2010</EMPLOYMENTDATES>
     <TITLE>Assistant Manager</TITLE>
     <DUTIES>Assistant manager and catering associate in high profile high-pressure special events environment providing top-level customer service to corporate and social event clients.</DUTIES> 
